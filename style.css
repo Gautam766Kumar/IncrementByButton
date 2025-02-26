@@ -1,0 +1,38 @@
+.maindiv{
+     height: 100vh;
+     width: 100vw;
+     background-color: aqua;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+.second{
+     height: 300px;
+     width: 500px;
+     background-color: blueviolet;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+
+}
+button{
+     height: 75px;
+     width: 75px;
+     margin: 25px;
+     border: 2px solid white;
+     border-radius: 20%;
+     box-shadow: 20px;
+}
+.num{
+     height: 75px;
+     width: 75px;
+     /* margin: 25px; */
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     border-radius: 10px;
+     background-color: aqua;
+}
+p{
+     font-weight: 50px;
+}
